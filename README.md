@@ -86,4 +86,4 @@
 - User.cs, Room.cs, Device.cs, SecurityLog.cs: Класи-моделі даних.
 
 Credits:
-- Illustration by Yuta Sena https://x.com/charon_mog_kero
+- Illustration used in program (tetoris.gif) by Yuta Sena, X (twitter): https://x.com/charon_mog_kero
