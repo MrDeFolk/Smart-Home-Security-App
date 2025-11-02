@@ -84,3 +84,6 @@
 - CryptographyService.cs: Реалізація AES, RSA та гібридного шифрування.
 - MqttService.cs: Взаємодія з MQTT брокером (підключення, публікація, підписка).
 - User.cs, Room.cs, Device.cs, SecurityLog.cs: Класи-моделі даних.
+
+Credits:
+- Illustration by Yuta Sena https://x.com/charon_mog_kero
